@@ -47,8 +47,8 @@ The dataset used for this project is sourced from Kaggle: [Book Recommendation D
 
 ## Files in the Repository
 - `Book Recommendation System.ipynb`: Jupyter notebook containing the complete code for the project.
-- `proposal.md`: Proposal document outlining the project objectives and approach.
-- `report.md`: Detailed report of the project, including methodology, results, and conclusions.
+- `proposal.pdf`: Proposal document outlining the project objectives and approach.
+- `report.pdf`: Detailed report of the project, including methodology, results, and conclusions.
 
 ## Conclusion
 This project demonstrates the application of collaborative filtering for book recommendations. By leveraging user ratings, the system can provide personalized book suggestions, enhancing the reading experience.
